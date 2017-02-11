@@ -5,6 +5,7 @@ library(memoise)
 # The list of valid books
 books <<- list("Revolver" = "revolver",
               "Rubber Soul" = "rubber_soul",
+              "Sgt. Pepper's Lonely Hearts Club Band" = "sgt_pepper",
               "All" = "all")
 
 # Using "memoise" to automatically cache the results
